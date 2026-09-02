@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stirring-dodol-92e78a.netlify.app/sitemap.xml
